@@ -1,17 +1,21 @@
 ### Hi there 👋
 
-<img src="https://tenor.com/view/computer-cat-working-type-typing-gif-7817705" alt="git" align="right" width="20%"/>
+<h1>I'm Angelly :sunflower:! </h1>
 
-I'm Angelly :sunflower:! 
+![computer-cat](https://github.com/Angellysg/Angellysg/assets/108312265/4e529f5e-414e-45dd-8c76-10dd22d087a3")
 
-<!--
-**Angellysg/Angellysg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
  🌱 I’m currently learning  Java and React .
 
  📫 How to reach me: 
-*<a href='https://www.linkedin.com/in/angellysg/' target='_blank'>Linkedin</a>
-*<a href='https://github.com/Angellysg' target='_blank'>My Website</a>
-*<a href='sepulveda.angelly1@gmail.com' target='_blank'>Mail</a>
+ 
+:dizzy:  <a href='https://www.linkedin.com/in/angellysg/' target='_blank'>Linkedin</a>
+
+:dizzy:  <a href='https://github.com/Angellysg' target='_blank'>My Website</a>
+
+:dizzy:  <a href='sepulveda.angelly1@gmail.com' target='_blank'>Mail</a>
+
+
+
 
 
