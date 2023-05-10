@@ -13,7 +13,7 @@
 
 :dizzy:  <a href='https://github.com/Angellysg' target="_blank">My Portfolio</a>
 
-:dizzy:  <a href='sepulveda.angelly1@gmail.com' target="_blank">Mail</a>
+:dizzy:  Mail: sepulveda.angelly1@gmail.com 
 
 
 
