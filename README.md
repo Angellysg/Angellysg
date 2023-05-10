@@ -9,11 +9,11 @@
 
  📫 How to reach me: 
  
-:dizzy:  <a href='https://www.linkedin.com/in/angellysg/' target='_blank'>Linkedin</a>
+:dizzy:  <a href='https://www.linkedin.com/in/angellysg/' target="_blank">Linkedin</a>
 
-:dizzy:  <a href='https://github.com/Angellysg' target='_blank'>My Website</a>
+:dizzy:  <a href='https://github.com/Angellysg' target="_blank">My Portfolio</a>
 
-:dizzy:  <a href='sepulveda.angelly1@gmail.com' target='_blank'>Mail</a>
+:dizzy:  <a href='sepulveda.angelly1@gmail.com' target="_blank">Mail</a>
 
 
 
