@@ -5,7 +5,7 @@
 ![computer-cat](https://github.com/Angellysg/Angellysg/assets/108312265/4e529f5e-414e-45dd-8c76-10dd22d087a3")
 
 
- 🌱 I’m currently learning  Java and React .
+ 🌱 I’m currently learning React .
 
  📫 How to reach me: 
  
